@@ -16,4 +16,6 @@ Put your functions in the functions file(s), export them and use them.  The outp
 
 Have fun and send me a pull request ( or e-mail ) with suggestions.
 
+It's all MIT so if you send me something, it will be too.
+
 Leon
